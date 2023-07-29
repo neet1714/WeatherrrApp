@@ -4,7 +4,7 @@ Simple WeatherrrApp using HTML, CSS, JS
 
 Know your area's weather using this WeatherrrApp
 
-*Check it out* [HERE](https://nx17bruh.github.io/WeatherrrApp/)
+*Check it out* [here](https://nx17bruh.github.io/WeatherrrApp/)
 ![image](https://github.com/nx17bruh/WeatherrrApp/assets/134150626/b707389b-4cd8-46a7-a05f-aa72b7294821)
 ![image](https://github.com/nx17bruh/WeatherrrApp/assets/134150626/c40a00de-4a86-491b-a6eb-fd3eec1f5314)
 ![image](https://github.com/nx17bruh/WeatherrrApp/assets/134150626/fee9cf28-c6cd-4286-b51f-af9ab2d61560)
